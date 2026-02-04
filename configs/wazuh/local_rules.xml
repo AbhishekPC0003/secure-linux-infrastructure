@@ -1,0 +1,6 @@
+<group name="web,app_sec,">
+  <rule id="100001" level="10">
+    <if_sid>31103</if_sid>
+    <description>ModSecurity: SQL Injection Attempt Blocked</description>
+  </rule>
+</group>
